@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
       
   - title: "CV"
     url: /cv/
     
   - title: "PE at UCB"
-    url: /markdown/
+    url: /peatucb/
