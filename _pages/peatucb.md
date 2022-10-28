@@ -2,7 +2,7 @@
 layout: archive
 title: "Political Economy at UCB"
 permalink: /peatucb/
-author_profile: true
+author_profile: false
 ---
 
 UC Berkeley has a stellar Political Economy group spread across various departments. This diversity, though under-exploited, is a strength but people are often not aware of the wide variety of seminars and resources at these departments. Here I attempt to put together some basic details on events and resources for someone interested in Political Economy from an economics angle:
