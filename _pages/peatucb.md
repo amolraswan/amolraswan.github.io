@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PE at UCB"
+title: "Political Economy at UCB"
 permalink: /peatucb/
 author_profile: true
 ---
@@ -19,9 +19,9 @@ Effectively a "minor" in Political Economy, this program aims to expose Politica
 
 You can enroll into the program in the semester (or later) you take one of the approved courses. For economics PhD students, Econ 210A, 215A, and 215B qualify. For Haas students, PHDBA 279PA/C/D qualify. Of course, you can take a course in another department to get started with the program too. Details [here](https://politicaleconomy.berkeley.edu/graduate-program/program-requirements/).
 
-While the exposure to an interdisciplinary peer network and approaches to Political Economy are enough, there are lucrative financial benefits to being a DE student as well: a $1000 stipend for summer 2023 and a small conference travel grant. They may in the future expand funding opportunities to small research grants too! Details [here](https://politicaleconomy.berkeley.edu/graduate-program/).
+While the exposure to an interdisciplinary peer network and approaches to Political Economy are attractions enough, there are lucrative financial benefits to being a DE student as well: a $1000 stipend for summer 2023 and a small conference travel grant. They may in the future expand funding opportunities to small research grants too! Details [here](https://politicaleconomy.berkeley.edu/graduate-program/).
 
-Only PhD students who have not yet advanced to candidacy can apply for the Designated Emphasis. PhD candidates can apply to the Political Economy Network Fellows program that comes without the requirement to, inter alia, take courses but with the requirement to attend workshops. Fellows are not eligible for the summer stipend but can apply for conference travel grants. Details [here](https://docs.google.com/forms/d/e/1FAIpQLSeNVdFRJb8E_eXbkaEPIXxRepdQJ-hp6iV2a923q3OJ068eiw/viewform).
+Only PhD students who have not yet advanced to candidacy can apply for the Designated Emphasis. PhD candidates can apply to the Political Economy Network Fellows program that comes without the requirement to take courses but with the requirement to, inter alia, attend workshops. Fellows are not eligible for the summer stipend but can apply for conference travel grants. Details [here](https://docs.google.com/forms/d/e/1FAIpQLSeNVdFRJb8E_eXbkaEPIXxRepdQJ-hp6iV2a923q3OJ068eiw/viewform).
 
 
 
