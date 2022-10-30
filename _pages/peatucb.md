@@ -13,6 +13,12 @@ UC Berkeley has a stellar Political Economy group spread across various departme
 2. [Oliver E. Williamson Seminar on Institutional Analysis](https://haas.berkeley.edu/ibi/events/seminars/oliver-williamson-seminar/): Thursdays 12.30-2pm in 325 Cheit Hall. A mix of talks by invited speakers and brown bag talks by Haas BPP PhD students.
 3. [Berkeley Political Economy Research Lab](https://twitter.com/xftrebbi/status/1312443798027268096): Fridays 1-2pm in 132 Cheit Hall. A low-stakes forum for PhD students to discuss (mostly, early stage) projects with peers and faculty members. Does not require formal presentations.
 
+### Conferences hosted at or organized by UC Berkeley
+
+1. Development and Political Economics SF Bay Area PhD Student Conference (DEVPEC), co-organized by UC Berkeley and Stanford University. Usually held in April each year. No stable website but you can refer to event information for [2021](https://kingcenter.stanford.edu/events/student-event/development-and-political-economics-graduate-student-conference-devpec-1) and [2022](https://twitter.com/pbacherikov/status/1496177151527514112?lang=en).
+2. [Annual Meeting](https://cega.berkeley.edu/event/working-group-in-african-political-economy-wgape-2022-annual-meeting-2/) and [regional meeting](https://cega.berkeley.edu/event/working-group-in-african-political-economy-wgape-2021-west-coast-regional-meeting/) of CEGA's [Working Group in African Political Economy](https://cega.berkeley.edu/initiative/working-group-in-african-political-economy/). No stable website for the meetings but can check for upcoming events' announcements [here](https://cega.berkeley.edu/events/).
+3. CEGA has hosted several conferences on the study of conflict in the past but I couldn't find a recurring one. Again, better to check their upcoming events [page](https://cega.berkeley.edu/events/).
+
 ### Designated Emphasis in Political Economy
 
 Effectively a "minor" in Political Economy, this program aims to expose Political Economy students to an interdisciplinary study of the subject. At the core, it requires completion of at least three courses with two of those completed outside of your home department and participation in approximately monthly workshops. 
