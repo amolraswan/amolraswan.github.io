@@ -5,7 +5,7 @@ permalink: /peatucb/
 author_profile: false
 ---
 
-UC Berkeley has a stellar Political Economy group spread across various departments. This diversity, though under-exploited, is a strength but people are often not aware of the wide variety of seminars and resources at these departments. Here I attempt to put together some basic details on events and resources for someone interested in Political Economy from an economics angle:
+UC Berkeley has a stellar Political Economy group spread across various departments. I have found people are often not aware of the wide variety of seminars and resources at these departments. And so, here I attempt to put together some basic details on events and resources for someone interested in Political Economy from an economics angle:
 
 ### Seminars/Meetings
 
@@ -21,7 +21,7 @@ UC Berkeley has a stellar Political Economy group spread across various departme
 
 ### Designated Emphasis in Political Economy
 
-Effectively a "minor" in Political Economy, this program aims to expose Political Economy students to an interdisciplinary study of the subject. At the core, it requires completion of at least three courses with two of those completed outside of your home department and participation in approximately monthly workshops. 
+Effectively a "minor" in Political Economy, this program aims to expose Political Economy students to an interdisciplinary study of the subject. It requires completion of at least three courses with two of those completed outside of your home department and participation in approximately monthly workshops. 
 
 You can enroll into the program in the semester (or later) you take one of the approved courses. For economics PhD students, Econ 210A, 215A, and 215B qualify. For Haas students, PHDBA 279PA/C/D qualify. Of course, you can take a course in another department to get started with the program too. Details [here](https://politicaleconomy.berkeley.edu/graduate-program/program-requirements/).
 
