@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-coming soon!
+Please refer to [my linkedin](https://www.linkedin.com/in/amol-singh-raswan/).
