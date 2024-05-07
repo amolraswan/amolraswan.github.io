@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please refer to [my linkedin](https://www.linkedin.com/in/amol-singh-raswan/).
+CV [here](https://github.com/amolraswan/amolraswan.github.io/blob/master/files/CV_20240507.pdf).
