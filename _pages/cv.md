@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-CV [here](https://github.com/amolraswan/amolraswan.github.io/blob/master/files/CV_20240507.pdf).
+CV [here](https://amolraswan.github.io/files/CV_Amol.pdf).
