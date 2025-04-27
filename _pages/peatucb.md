@@ -15,7 +15,7 @@ UC Berkeley has a stellar Political Economy group spread across various departme
 
 ### Conferences hosted at or organized by UC Berkeley
 
-1. Development and Political Economics SF Bay Area PhD Student Conference (DEVPEC), co-organized by UC Berkeley and Stanford University. Usually held in April each year. No stable website but you can refer to event information for [2021](https://kingcenter.stanford.edu/events/student-event/development-and-political-economics-graduate-student-conference-devpec-1) and [2022](https://twitter.com/pbacherikov/status/1496177151527514112?lang=en).
+1. [Development and Political Economics PhD Student Conference (DEVPEC)](https://sites.google.com/view/devpec), co-organized by UC Berkeley and Stanford University. Usually held in April.
 2. [Annual Meeting](https://cega.berkeley.edu/event/working-group-in-african-political-economy-wgape-2022-annual-meeting-2/) and [regional meeting](https://cega.berkeley.edu/event/working-group-in-african-political-economy-wgape-2021-west-coast-regional-meeting/) of CEGA's [Working Group in African Political Economy](https://cega.berkeley.edu/initiative/working-group-in-african-political-economy/). No stable website for the meetings but can check for upcoming events' announcements [here](https://cega.berkeley.edu/events/).
 3. CEGA has hosted several conferences on the study of conflict in the past but I couldn't find a recurring one. Again, better to check their upcoming events [page](https://cega.berkeley.edu/events/).
 
