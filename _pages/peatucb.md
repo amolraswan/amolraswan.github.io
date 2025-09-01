@@ -9,8 +9,8 @@ UC Berkeley has a stellar Political Economy group spread across various departme
 
 ### Seminars/Meetings
 
-1. [Robert Powell Political Economy Seminar](https://haas.berkeley.edu/bcep/conferences-seminars/seminars/): Mondays 12.30-2pm in 223 Moses Hall.
-2. [Oliver E. Williamson Seminar on Institutional Analysis](https://haas.berkeley.edu/ibi/events/seminars/oliver-williamson-seminar/): Thursdays 12.30-2pm in 325 Cheit Hall. A mix of talks by invited speakers and brown bag talks by Haas BPP PhD students.
+1. [Robert Powell Political Economy Seminar](https://haas.berkeley.edu/bcep/conferences-seminars/seminars/): Mondays 12.30-2pm in 223 Philosophy Hall.
+2. [Oliver E. Williamson Seminar on Institutional Analysis](https://haas.berkeley.edu/ibi/events/seminars/oliver-williamson-seminar/): Thursdays 12.30-2pm in 330 Cheit Hall. A mix of talks by invited speakers and brown bag talks by Haas BPP PhD students.
 3. [Berkeley Political Economy Research Lab](https://twitter.com/xftrebbi/status/1312443798027268096): Fridays 1-2pm in 132 Cheit Hall. A low-stakes forum for PhD students to discuss (mostly, early stage) projects with peers and faculty members. Does not require formal presentations.
 
 ### Conferences hosted at or organized by UC Berkeley
