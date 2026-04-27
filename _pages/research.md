@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: false
 ---
 
-# Work-in-Progress
+## Working Papers
 
-## [The Sisyphean Pursuit of Evidence for Poverty Traps](/files/kru_20260426.pdf)
+### [The Sisyphean Pursuit of Evidence for Poverty Traps](/files/kru_20260426.pdf)
 
 with Dean Karlan and Christopher Udry
 
