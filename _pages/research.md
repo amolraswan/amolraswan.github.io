@@ -19,5 +19,5 @@ A thoughtful [reply](https://data.nber.org/data-appendix/w35253/povertyTraps_rep
 
 ## Works in Progress
 
-### Bureaucrat-Politician Interactions in the Supply of Public Goods: Evidence from India 
+### Bureaucrat-Politician Complementarities in the Supply of Public Goods: Evidence from India 
 with Shruthi Ramesh
